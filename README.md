@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [les évades du chenil](https://github.com/les-evades-du-chenil)
 
-- 🌱 I’m currently learning **Flutter, Rust and Kotlin**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [devloup.dev](https://devloup.dev)
 
