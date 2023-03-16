@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [devloup.dev](https://devloup.dev)
+- 👨‍💻 Some of my projects are available at [devloup.dev](https://devloup.dev)
 
 - 📫 How to reach me **swann@devloup.dev**
 
