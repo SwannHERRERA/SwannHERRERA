@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [les évades du chenil](https://github.com/les-evades-du-chenil)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Database distribution**
 
 - 👨‍💻 Some of my projects are available at [devloup.dev](https://devloup.dev)
 
